@@ -1,0 +1,1 @@
+java -Xmx8000m -Xms3000m -jar forge-1.20.1-47.3.0-installer.jar nogui
